@@ -37,9 +37,7 @@ The program automatically creates `attendance_data.json` after the first change.
 
 Dates must use `YYYY-MM-DD`, for example `2026-09-03`. Press Enter without typing a date to use today's date.
 
-## Beginner Python Programs
 
-The `python_beginner` folder contains 20 small lessons covering variables, input, conditions, loops, lists, strings, functions, and simple projects. Start with its [README](python_beginner/README.md).
 
 Run any lesson like this:
 
